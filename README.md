@@ -41,15 +41,15 @@ It serves as a basic example of how to interact with a MySQL database using PHP 
 2. Import `database.sql` (if available) into your MySQL server
 3. Configure your database connection in `config.php`:
 
-###💬 Author
+## 💬 Author
 
 ✍️ Aqbil (Aqqubirru)
 
 📧 Email: aqbilhasyarasyadi21@gmail.com
 
-📱 Instagram: @jbiel.hr
+📱 Instagram: <a href="https://instagram.com/jbiel.hr" target="_blank">@jbiel.hr</a>
 
-🎵 TikTok: @aqqubirru
+🎵 TikTok: <a href="https://www.tiktok.com/@zebiel21" target="_blank">@zeeb_21</a>
 
 ```php
 <?php
