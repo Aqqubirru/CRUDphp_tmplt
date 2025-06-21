@@ -42,9 +42,13 @@ It serves as a basic example of how to interact with a MySQL database using PHP 
 3. Configure your database connection in `config.php`:
 
 ###💬 Author
+
 ✍️ Aqbil (Aqqubirru)
+
 📧 Email: aqbilhasyarasyadi21@gmail.com
+
 📱 Instagram: @jbiel.hr
+
 🎵 TikTok: @aqqubirru
 
 ```php
