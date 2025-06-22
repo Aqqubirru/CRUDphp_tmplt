@@ -51,6 +51,8 @@ It serves as a basic example of how to interact with a MySQL database using PHP 
 
 🎵 TikTok: <a href="https://www.tiktok.com/@zebiel21" target="_blank">@zeeb_21</a>
 
+follow guys :D thanks
+
 ```php
 <?php
 $host = "localhost";
