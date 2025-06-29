@@ -38,8 +38,8 @@ It serves as a basic example of how to interact with a MySQL database using PHP 
 ## ⚙️ Setup Instructions
 
 1. Clone or download this repository
-2. Import `database.sql` (if available) into your MySQL server
-3. Configure your database connection in `config.php`:
+2. Import `database.sql` (if available) into your MySQL server 
+3. Configure your database connection in `config.php`: (connect your MySQL)
 
 ## 💬 Author
 
