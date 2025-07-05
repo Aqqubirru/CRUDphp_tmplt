@@ -53,13 +53,4 @@ It serves as a basic example of how to interact with a MySQL database using PHP 
 
 follow guys :D thanks
 
-```php
-<?php
-$host = "localhost";
-$user = "root";
-$password = "";
-$database = "your_database_name";
-
-$conn = new mysqli($host, $user, $password, $database);
-?>
 
